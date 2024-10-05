@@ -10,3 +10,5 @@ apt-get install sudo
 apt-get install firefox-esr
 dpkg-reconfigure locales
 echo "La instalacion y configuracion minima de XFCE termino"
+echo "Reiniciando..."
+sudo reboot now
