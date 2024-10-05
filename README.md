@@ -13,3 +13,8 @@ Y Otras cosas tambien:
 -El navegador Firefox
 
 Hecho solo para mi aunque obviamente lo pueden modificar (Lo hice a las apuradas perdon, XD)
+
+Ejecutar esto en root haciendo:
+$su -
+
+
