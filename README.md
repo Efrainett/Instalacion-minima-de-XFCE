@@ -10,5 +10,6 @@ Con este bash podras instalar de forma facil XFCE en la forma mas minima conteni
 Y Otras cosas tambien:
 -El comando "sudo" (Se le dara beneficios de super usuario al usuario que se llame "efrain")
 -Los drivers privativos y open-source para el firmware (Principalmente para Intel y AMD)
+-El navegador Firefox
 
 Hecho solo para mi aunque obviamente lo pueden modificar (Lo hice a las apuradas perdon, XD)
