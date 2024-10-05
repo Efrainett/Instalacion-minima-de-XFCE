@@ -8,3 +8,5 @@ Con este bash podras instalar de forma facil XFCE en la forma mas minima conteni
 Y Otras cosas tambien:
 -El comando "sudo"
 -Los drivers privativos y open-source para el firmware (Principalmente para Intel y AMD)
+
+Hecho solo para mi xd
