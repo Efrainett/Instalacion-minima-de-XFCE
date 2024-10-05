@@ -7,6 +7,7 @@ apt-get install xfdesktop4 xfwm4 xfce4-panel xfce4-settings xfce4-session xfce4-
 apt-get install pipewire pulseaudio-utils alsa-utils xfce4-pulseaudio-plugin
 rm /etc/network/interfaces
 apt-get install sudo
+apt-get install firefox
 sudo usermod -aG sudo efrain
 su efrain
 su -
