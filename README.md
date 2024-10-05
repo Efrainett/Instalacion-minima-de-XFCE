@@ -15,3 +15,7 @@ Y Otras cosas tambien:
 
 Hecho solo para mi aunque obviamente lo pueden modificar (Lo hice a las apuradas perdon, XD)
 
+Recomendación para netbooks: Luego de la instalación incien sesion, abran una terminal, hagan "su" y instalen los drivers de synaptics para una configuración mas completa del tactil.
+
+$apt-get install xserver-xorg-input-synaptics
+
