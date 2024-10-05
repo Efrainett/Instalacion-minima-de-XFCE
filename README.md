@@ -6,7 +6,7 @@ Con este bash podras instalar de forma facil XFCE en la forma mas minima conteni
 -Las utilidades de audio (Especificamente Pipewire, falta configurar las teclas de aumentar, subir y callar volumen)
 -Configuracion a elegir al final para el idioma que se mostrara en XFCE
 Y Otras cosas tambien:
--El comando "sudo"
+-El comando "sudo" (Se le dara beneficios de super usuario al usuario que se llame "efrain")
 -Los drivers privativos y open-source para el firmware (Principalmente para Intel y AMD)
 
-Hecho solo para mi xd
+Hecho solo para mi aunque obviamente lo pueden modificar (Lo hice a las apuradas perdon, XD)
