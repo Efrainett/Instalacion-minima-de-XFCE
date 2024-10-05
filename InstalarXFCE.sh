@@ -8,6 +8,5 @@ apt-get install pipewire pulseaudio-utils alsa-utils xfce4-pulseaudio-plugin
 rm /etc/network/interfaces
 apt-get install sudo
 apt-get install firefox-esr
-sudo usermod -aG sudo efrain
 dpkg-reconfigure locales
 echo "La instalacion y configuracion minima de XFCE termino"
