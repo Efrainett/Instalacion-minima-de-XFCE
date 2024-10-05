@@ -9,6 +9,5 @@ rm /etc/network/interfaces
 apt-get install sudo
 apt-get install firefox-esr
 sudo usermod -aG sudo efrain
-su efrain
 dpkg-reconfigure locales
 echo "La instalacion y configuracion minima de XFCE termino"
