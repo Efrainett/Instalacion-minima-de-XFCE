@@ -9,7 +9,7 @@ Este bash especificamente para Debian con las minimas utilidades, con este bash 
 -Configuracion a elegir al final para el idioma que se mostrara en XFCE
 
 Y Otras cosas tambien:
--El comando "sudo" (Acordase de hacer "sudo usermod -aG sudo NombreDelUsuario" al final)
+-El comando "sudo" (Luego de la instalación recomendado hacer "sudo usermod -aG sudo NombreDelUsuario")
 -Los drivers privativos y open-source para el firmware (Principalmente para Intel y AMD)
 -El navegador Firefox para navegar tranquilo
 
